@@ -149,7 +149,6 @@ HTTP/1.1 203 Non-Authoritative Information
 - [208 Already Reported](./208-already-reported.md) | 🔁
 
 - [226 IM Used](./226-im-used.md) | 🧮
- 📦
 
 ---
 
