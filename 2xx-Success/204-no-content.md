@@ -130,6 +130,28 @@ HTTP/1.1 204 No Content
 
 ---
 
+- [200 OK](./200-ok.md) ✅ OK
+
+- [201 Created](./201-created.md) | 🏗️
+
+- [202 Accepted](./202-accepted.md) | ⏳
+
+- [203 Non-Authoritative Information](./203-non-authoritative-information.md) | 🧾
+
+- [204 No Content](./204-no-content.md) | 🚫
+
+- [205 Reset Content](./205-reset-content.md) | 🔄
+
+- [206 Partial Content](./206-partial-content.md) | 📦
+
+- [207 Multi-Status](./207-multi-status.md) | 🧩
+
+- [208 Already Reported](./208-already-reported.md) | 🔁
+
+- [226 IM Used](./226-im-used.md) | 🧮
+
+---
+
 ## 📚 References
 
 - MDN Docs – 204 No Content
