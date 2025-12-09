@@ -82,7 +82,7 @@ HTTP/1.1 305 Use Proxy
 Location: http://proxy.example.com:8080
 ```
 
-🔴 Modern browsers will ignore this response.
+=> Modern browsers will ignore this response.
 
 ---
 
