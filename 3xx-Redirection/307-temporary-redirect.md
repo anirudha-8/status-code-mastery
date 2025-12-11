@@ -149,6 +149,28 @@ app.post("/upload", (req, res) => {
 
 ---
 
+## 🔗 Related Codes
+
+- [300 Multiple Choices](./300-multiple-choices.md)📚
+
+- [301 Moved Permanently](./301-moved-permanently.md)🔒
+
+- [302 Found](./302-found.md)🔁
+
+- [303 See Other](./303-see-other.md)🔗
+
+- [304 Not Modified](./304-not-modified.md)🗂️
+
+- [305 Use Proxy](./305-use-proxy.md) | 🖧
+
+- [306 Switch Proxy](./306-switch-proxy.md)🚫
+
+- [307 Temporary Redirect](./307-temporary-redirect.md)🔄
+
+- [308 Permanent Redirect](./308-permanent-redirect.md)📌
+
+---
+
 ## 📚 References
 
 - MDNDocs — 307 Temporary Redirect
