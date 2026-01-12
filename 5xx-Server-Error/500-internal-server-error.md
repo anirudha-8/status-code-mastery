@@ -171,6 +171,22 @@ app.use((err, req, res, next) => {
 
 ---
 
+## 🔗 Related Codes
+
+- [500 Internal Server Error](./500-internal-server-error.md)💥
+
+- [501 Not Implemented](./501-not-implemented.md)🚧
+
+- [502 Bad Gateway](./502-bad-gateway.md)🔌
+
+- [503 Service Unavailable](./503-service-unavailable.md)🛑
+
+- [504 Gateway Timeout](./504-gateway-timeout.md)⏳
+
+- [505 HTTP Version Not Supported](./505-http-version-not-supported.md)🌐
+
+---
+
 ## 📚 References
 
 - MDN Docs — 500 Internal Server Error
