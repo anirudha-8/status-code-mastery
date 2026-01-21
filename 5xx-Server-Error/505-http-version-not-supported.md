@@ -111,3 +111,51 @@ That’s **505 HTTP Version Not Supported**.
 - Gateway fails upstream → 502 / 504
 
 ---
+
+## 🔥 Interview Tip
+
+**💬 Question:**
+
+> Difference between 505 and 400?
+
+**Answer:**
+
+- **505** → HTTP protocol version is unsupported
+
+- **400** → Request syntax is malformed
+
+---
+
+## 🧪 Server Configuration Example
+
+Apache (example):
+
+```apache
+Protocols h2 http/1.1
+```
+
+If client requests unsupported version → 505
+
+---
+
+## 🔗 Related Codes
+
+- [500 Internal Server Error](./500-internal-server-error.md)💥
+
+- [501 Not Implemented](./501-not-implemented.md)🚧
+
+- [502 Bad Gateway](./502-bad-gateway.md)🔌
+
+- [503 Service Unavailable](./503-service-unavailable.md)🛑
+
+- [504 Gateway Timeout](./504-gateway-timeout.md)⏳
+
+- [505 HTTP Version Not Supported](./505-http-version-not-supported.md)🌐
+
+---
+
+## 📚 References
+
+- MDN Docs — 505 HTTP Version Not Supported
+
+- RFC 9110 — HTTP Semantics
